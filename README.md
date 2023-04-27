@@ -77,7 +77,7 @@ cv2.destroyAllWindows()
 
 
 ### Display the result of Hough transform
-![](Hough.png)
+![](hough.png)
 
 
 
